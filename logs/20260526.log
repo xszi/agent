@@ -1,0 +1,5 @@
+2026-05-26 19:48:24,624 - agent - INFO - logger_handler.py - 49 - test
+2026-05-26 19:48:24,624 - agent - DEBUG - logger_handler.py - 50 - test
+2026-05-26 19:48:24,624 - agent - WARNING - logger_handler.py - 51 - test
+2026-05-26 19:48:24,624 - agent - ERROR - logger_handler.py - 52 - test
+2026-05-26 19:48:24,625 - agent - CRITICAL - logger_handler.py - 53 - test
